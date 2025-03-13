@@ -9,8 +9,9 @@ Some prior coding knowledge for this workshop would be helpful – but all code 
 
 
 **This repository contains the following materials:**
-  1. csc-how-research-works.pdf: &ensp; Workshop slides
-  2. csc-how-research-works.ipynb: &ensp; Workshop notebook
+  1. csc-how-research-works.ipynb: &ensp; Workshop notebook
+  2. csc-how-research-works.pdf: &ensp; Workshop slides
+
 
 **For quick access to resources & links from this workshop, please see below:**
   1. [Colab notebook](https://bit.ly/csc-search-wkshp-2025-03)
