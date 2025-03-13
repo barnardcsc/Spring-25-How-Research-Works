@@ -1,4 +1,4 @@
-# Spring-25-How-Research-Works
+# Spring-25-How-Research-Works-Under-the-Hood-Exploration-of-Search-Algorithms
 
 This workshop is taught by **Dan Woulfin** (Computational Research Instruction Librarian, Columbia University) and **Sydni Meyer** (Teaching and Undergraduate Services Librarian, Columbia University). 
 Emails: dw3105@columbia.edu and sm3871@columbia.edu (respectively)
